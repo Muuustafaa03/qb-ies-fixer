@@ -1,5 +1,0 @@
-CRM_ID,Customer_Legal_Name,Street_Address_Main,City,State,Zip_Postal,Lifetime_Value,Notes
-1001,Global Megacorp Industries LLC,"12345 North International Business Park Boulevard Suite 900",New York,NY,10001,50000,"High priority client"
-1002,"Tech-Solutions: West Coast","555 Silicon Way",San Jose,CA,95112,12000,"Copy-pasted name with colon"
-1001,Global Megacorp Industries LLC,"12345 North International Business Park Boulevard Suite 900",New York,NY,10001,0,"Duplicate entry from system sync"
-1004,Small Town Boutique,"12 Main St",Boston,MA,2108,450,"Missing leading zero in zip"
