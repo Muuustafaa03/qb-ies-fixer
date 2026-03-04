@@ -1,7 +1,7 @@
 # 🏦 QuickBooks IES Enterprise Data Auditor
 **A specialized utility for high-volume Intuit Enterprise Suite migrations.**
 
-### 🚀 Live Tool: [https://muuustafaa03-qb-ies-fixer.streamlit.app/]
+### 🚀 Live Tool: [https://qb-ies-fixer.streamlit.app/]
 
 ### 🛠️ What it solves:
 - **Smart-Split Addresses:** Automatically handles the 41-character IES limit without losing data.
